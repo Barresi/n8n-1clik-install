@@ -21,6 +21,7 @@
 
 ### Первая установка
 ```bash
+wget https://raw.githubusercontent.com/jumble-ai/n8n-1clik-install/refs/heads/main/install-n8n.sh
 sudo ./install-n8n.sh
 ```
 
